@@ -8,5 +8,5 @@ such as mass, radius, and tidal deformability are given in the directory TOV. Ea
 contains self-explanatory labeling of each column. 
 
 The results for hybrid stars are located in TOV_Hybrid where we provide the integral 
-parameters of hybrid stars. The construction of EoS can be done the basis of EoS given 
-for nucleonic models and addition of constant speed of sound EoS for quark matter.
+parameters of hybrid stars. The construction of EoS can be done on the basis of EoS given 
+for nucleonic models and the addition of constant speed of sound EoS for quark matter.
